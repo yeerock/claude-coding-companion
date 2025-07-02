@@ -62,20 +62,6 @@ This approach addresses the fundamental scalability issue in AI-assisted develop
 
 ## Usage Example
 
-```json
-{
- "php": ["process_data", "validate_user_input"],
- "php_class": ["DatabaseManager"],
- "js": ["updateUI"],
- "html": ["#main-content", ".btn-submit", "forms"],
- "comments": ["User Profile Section"],
- "blocks": ["ajax_handler"],
- "post_handlers": ["save_user_profile"],
- "get_handlers": ["fetch_user_data"],
- "switch_case": ["delete_record"],
- "create_tables": ["users"]
-}
-
 ```php
 <?php
 /**
