@@ -76,7 +76,7 @@ This approach addresses the fundamental scalability issue in AI-assisted develop
  "create_tables": ["users"]
 }
 
-```html
+```php
 <?php
 /**
  * =================================================================
